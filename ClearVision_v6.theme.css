@@ -11,7 +11,6 @@
  * @BDEditor Frosted Glass
 */
 
-@import url('https://fonts.googleapis.com/css2?family=GG+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
@@ -42,8 +41,8 @@
   --link-colour: #B85BB6;
   --scrollbar-colour: rgb(254,191,223,1);
   --gradient-direction: 6deg;
-  --tint-colour: 122,220,255;
-  --tint-brightness: 0.12;
+  --tint-colour: 25,67,82;
+  --tint-brightness: 0.3;
   --font: Whitney;
   --window-padding: 0px;
   --window-roundness: 0px;
